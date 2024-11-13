@@ -3,7 +3,7 @@
 
 This repository contains the R script `run_analysis.R` that performs the analysis as outlined in the project requirements. The goal of this project is to demonstrate the ability to collect, work with, and clean a data set for further analysis. The data used in this project are collected from the accelerometers of the Samsung Galaxy S smartphone.
 
-Completed by: Shivane Kapoor :)
+Completed by: Lakshit Gupta
 
 ## Files in this Repository
 
